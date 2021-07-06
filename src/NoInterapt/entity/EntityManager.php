@@ -2,10 +2,10 @@
 
 declare(strict_types = 1);
 
-namespace BumyTest\entity;
+namespace NoInterapt\entity;
 
-use BumyTest\entity\NPC;
-use BumyTest\Main;
+use NoInterapt\entity\NPC;
+use NoInterapt\Main;
 
 use libs\utils\Utils;
 use pocketmine\block\Bedrock;

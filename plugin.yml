@@ -1,5 +1,5 @@
-name: BumyTest
-main: BumyTest\Main
+name: NoInterapt
+main: NoInterapt\Main
 author: Bumy
 version: 1.0.0
 api: 3.0.0

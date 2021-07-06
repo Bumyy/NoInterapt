@@ -1,8 +1,8 @@
 <?php
 
-namespace BumyTest;
+namespace NoInterapt;
 
-use BumyTest\Main;
+use NoInterapt\Main;
 use pocketmine\scheduler\Task;
 
 class GhostFlyTask extends Task {

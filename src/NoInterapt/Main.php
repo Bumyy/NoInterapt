@@ -1,6 +1,6 @@
 <?php
 
-namespace BumyTest;
+namespace NoInterapt;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\entity\Entity;
@@ -20,8 +20,8 @@ use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\Player;
 use pocketmine\level\Position;
 
-use BumyTest\CombatTag;
-use BumyTest\entity\EntityManager;
+use NoInterapt\CombatTag;
+use NoInterapt\entity\EntityManager;
 
 class Main extends PluginBase implements Listener{
 

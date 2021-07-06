@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace BumyTest\entity;
+namespace NoInterapt\entity;
 
 use pocketmine\Player;
 use pocketmine\entity\Entity;
